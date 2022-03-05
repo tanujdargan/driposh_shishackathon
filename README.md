@@ -15,7 +15,7 @@ irrigation system. It replaces the timer from the equation and adds our own modu
 system comprises of multiple circuits and sensors. The sensors collect data like the
 humidity and the temperature of the atmosphere along with measuring the amount of moisture in the soil.
 
-#### [Prototyping & Testing + Circuit Walkthrough Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+#### [Prototyping & Testing + Circuit Walkthrough Video](https://youtu.be/ZgG6TIIKjec)
 #### [AWS Documentation](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/aws-tookit-vscode-ug.pdf)
 #### [AWS Event Driven Architecture](https://aws.amazon.com/event-driven-architecture/)
 #### [Python 3.10.2](https://docs.python.org/3/)
