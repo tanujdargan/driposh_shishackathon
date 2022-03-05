@@ -20,6 +20,7 @@ humidity and the temperature of the atmosphere along with measuring the amount o
 #### [AWS Event Driven Architecture](https://aws.amazon.com/event-driven-architecture/)
 #### [Python 3.10.2](https://docs.python.org/3/)
 #### [Machine Learning Model](https://github.com/tanujdargan/driposh_shishackathon)
+#### [Website Design](https://github.com/tanujdargan/driposh_shishackathon/blob/main/Assets/Team_Z3R0_Website.pdf)
 
 # Highlights
 - Efficient Irrigation.
