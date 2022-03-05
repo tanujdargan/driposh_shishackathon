@@ -15,7 +15,7 @@ irrigation system. It replaces the timer from the equation and adds our own modu
 system comprises of multiple circuits and sensors. The sensors collect data like the
 humidity and the temperature of the atmosphere along with measuring the amount of moisture in the soil.
 
-#### [Prototyping & Testing + Circuit Walkthrough Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+#### [Prototyping & Testing + Circuit Walkthrough Video](https://youtu.be/ZgG6TIIKjec)
 #### [AWS Documentation](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/aws-tookit-vscode-ug.pdf)
 #### [AWS Event Driven Architecture](https://aws.amazon.com/event-driven-architecture/)
 #### [Python 3.10.2](https://docs.python.org/3/)
@@ -56,6 +56,28 @@ humidity and the temperature of the atmosphere along with measuring the amount o
 
 # System Flow Chart
 <img src="https://raw.githubusercontent.com/tanujdargan/driposh_shishackathon/main/Assets/System%20Flow%20Chart%20white.png"><br/>
+
+
+# DHT 11 Temperature Sensor Casing
+<img src="https://raw.githubusercontent.com/tanujdargan/driposh_shishackathon/main/Assets/DHT11%20Z3RO.png" width="600px"><br/>
+
+# Raspberry Pi 4B Casing
+<img src="https://raw.githubusercontent.com/tanujdargan/driposh_shishackathon/main/Assets/Hackathon%20Casing%20v2%20(1).png" width="600px"><br/>
+<img src="https://raw.githubusercontent.com/tanujdargan/driposh_shishackathon/main/Assets/Hackathon%20Casing%20v2%20(2).png" width="600px"><br/>
+
+# LDR Casing
+<img src="https://raw.githubusercontent.com/tanujdargan/driposh_shishackathon/main/Assets/LDR%20casing.png" width="600px"><br/>
+
+# Soil Moisture Sensor Casing
+<img src="https://raw.githubusercontent.com/tanujdargan/driposh_shishackathon/main/Assets/moisture%20sensor%20Z3RO%20(1).png" width="600px"><br/>
+<img src="https://raw.githubusercontent.com/tanujdargan/driposh_shishackathon/main/Assets/moisture%20sensor%20Z3RO%20(2).png" width="600px"><br/>
+
+# Raspberry Pi Camera Back Casing
+<img src="https://raw.githubusercontent.com/tanujdargan/driposh_shishackathon/main/Assets/RPI%20Cam%20Back.png" width="600px"><br/>
+
+# Raspberry Pi Camera Front Casing
+<img src="https://raw.githubusercontent.com/tanujdargan/driposh_shishackathon/main/Assets/RPI%20Cam%20Front.png" width="600px"><br/>
+
 
 # Citations
 - https://www.fao.org/india/fao-in-india/india-at-a-glance/en/<br/>
